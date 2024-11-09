@@ -1,5 +1,5 @@
 <h1 align="center">Hola mi nombre es Leidy</h1>
-<h3 align="center">Soy una estudiante de información</h3>
+<h3 align="center">Soy una estudiante de informática</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leidyph2002&label=Profile%20views&color=0e75b6&style=flat" alt="leidyph2002" /> </p>
 
