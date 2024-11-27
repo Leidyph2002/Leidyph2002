@@ -4,13 +4,13 @@
 
 ### Hola, mi nombre es Leidy
 
-Llevo más de 4 años en el ámbito de la informática mas enfocado en la administración de sistemas informáticos y las redes, tengo el Grado medio de Sistemas microinformáticos y redes, además de que actualmente estoy en proceso de terminarl el Grado superior de Administracion de sistemas informaticos en red.
+Llevo 4 años en el ámbito de la informática mas enfocado en la administración de sistemas informáticos y redes, tengo el Grado medio de Sistemas microinformáticos y redes, además de que actualmente estoy en proceso de terminarl el Grado superior de Administracion de sistemas informaticos en red.
 
-He aprendido un sin fin de herramientas bastante reconocidas e importantes en este sector tanto en programación, ciberseguridad y administración de una red de sistemas informáticos.
+He aprendido una gran cantidad de herramientas bastante reconocidas e importantes en este sector tanto en programación, ciberseguridad y administración de una red de sistemas informáticos.
 
 ------
 
-Tecnologias que he utilizado hace poco:
+Tecnologias que ulizido en mi día a día:
 
   - 🐉 SO: Kali linux y kali Purple linux, Windows server y Windows 10-11, Ubuntu Server y Ubuntu desktop,Debian Server ! 
   - 🛠️ Herramientas: Odoo, Wordpress, MySQL Workbench, XAMPP, Nessus, CLARA, Shodan, Systevo, Lynis, Git, GitKraken, GitHub, Virtual box, Visual Studios Code...
@@ -20,7 +20,7 @@ Mas sobre mi:
 
   - 🔭 Actualmente estoy trabajando en mejorar los sistemas de la red para que sean mas seguros.
   - 🌱 Actualmente estoy aprendiendo: Cloud Security, Seguridad en Blockchain y Criptomonedas.
-  - 💬 Pregúntame sobre **Control de una arquitectura Red, Bases de datos, SO, Blue team Y Red team**
+  - 💬 Pregúntame sobre Control de una arquitectura Red, Bases de datos, SO, Blue team Y Red team
     
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
@@ -73,18 +73,22 @@ Mas sobre mi:
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Control de versiones:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,githubactions"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime"/></td>
     </tr>
     <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Sistemas operativos:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali,linux,apple,redhat"/></td>
+    </tr>
+      <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Otras herramientas:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=linkedin,ps,bash,powershell,wordpress,notion,npm,obsidian,gmail,discord,instagram"/></td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Sistemas operativos:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali,linux,apple,redhat"/></td>
+        <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud Computing:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=aws"/></td>
     </tr>
 </table>
