@@ -88,7 +88,7 @@ He aprendido una gran cantidad de herramientas bastante reconocidas e importante
   <td>
 <div align="center">
   <a href="https://github.com/Leidyph2002">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leidyph2002&&theme=ambient_gradient" alt="Leidyph2002" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leidyph2002&&theme=ambient_gradient" alt="Leidyph2002"/>
   </a>
 </div>
   </td>
