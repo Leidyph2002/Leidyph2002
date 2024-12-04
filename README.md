@@ -81,14 +81,14 @@ He aprendido una gran cantidad de herramientas bastante reconocidas e importante
   <td>
 <div align="center">
   <a href="https://github.com/Leidyph2002">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leidyph2002&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Leidyph2002"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leidyph2002&show_icons=true&locale=es&layout=compact&theme=ambient_gradient" alt="Leidyph2002"/>
   </a>
 </div>
   </td>
   <td>
 <div align="center">
   <a href="https://github.com/Leidyph2002">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leidyph2002&&theme=tokyonight" alt="Leidyph2002" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leidyph2002&&theme=ambient_gradient" alt="Leidyph2002" />
   </a>
 </div>
   </td>
