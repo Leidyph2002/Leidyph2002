@@ -2,7 +2,9 @@
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hola, mi nombre es Leidy
+![Header](./leidy_header.png)
+
+# Hola, mi nombre es Leidy
 
 Llevo 4 años en el ámbito de la informática mas enfocado en la administración de sistemas informáticos y redes, tengo el Grado medio de Sistemas microinformáticos y redes, además de que actualmente estoy en proceso de terminarl el Grado superior de Administracion de sistemas informaticos en red.
 
@@ -10,66 +12,99 @@ He aprendido una gran cantidad de herramientas bastante reconocidas e importante
 
 ------
 
-Tecnologias que ulizido en mi día a día:
+### Tecnologias que ulizido en mi día a día:
 
   - 🐉 SO: Kali linux y kali Purple linux, Windows server y Windows 10-11, Ubuntu Server y Ubuntu desktop,Debian Server ! 
   - 🛠️ Herramientas: Odoo, Wordpress, MySQL Workbench, XAMPP, Nessus, CLARA, Shodan, Systevo, Lynis, Git, GitKraken, GitHub, Virtual box, Visual Studios Code...
 
 ------
-Mas sobre mi:
 
-  - 🔭 Actualmente estoy trabajando en mejorar los sistemas de la red para que sean mas seguros.
-  - 🌱 Actualmente estoy aprendiendo: Cloud Security, Seguridad en Blockchain y Criptomonedas.
-  - 💬 Pregúntame sobre Control de una arquitectura Red, Bases de datos, SO, Blue team Y Red team
-    
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://twitter.com/ZakariaChiouloud" target="blank"><i align="center" class="devicon-twitter-original" alt="Zakaria_Chiouloud" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/zakaria-chiouloud/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Zakaria_Chiouloud" height="40" width="60" ></i>
-</a>
+## Proyectos Destacados
+<table>
+<tr>
+<td width="50%">
+<br>
+<h3 align="center">Router-Firewall</h3>
+<div align="center">
+<a href="https://github.com/JorgeBer19/Curso-Pyhon" target="_blank"><img src="img/python.png" width="400" alt="Curso Básico de Python"></a>
+<p>
+
 </p>
+<p>Este es un curso el cual lo estamos realizado en el modulo de <strong>SAD (Seguridad y Alta Disponibilidad)</strong> - En este curso se podrá ver los inicios para aprender <strong>Python</strong> con todo el código disponible para descargar y comentado para observar que hace cada cosa.</p>
+</div>
+                                                                                      
+</td>
 
+<td width="50%">
+<h3 align="center">DHCP</h3>
+<div align="center">
+<a href="https://github.com/JorgeBer19/SAD/blob/master/UT3/TAREA_0_Verificaci%C3%B3n_De_Integidad_Con_Hash/Jorge_Bernal_Liarte_SAD_UT3_T0.pdf" target="_blank"><img src="img/hashi.png" width="400" height = "230" alt="Verificación de la integridad de archivos"></a>
+<p>
 
+</p>Esta practica consiste en saber como comprobar la integridad de ficheros en so Windows y Ubuntu con herramientas tales como <strong>CertUtil, QuickHash GUI, md5sum y sha256sum. </strong><br><br></p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">DNS</h3>
+<br>
+<div align="center">
+<a href="https://github.com/JorgeBer19/SAD/blob/master/UT1/TAREA-2_Auditoria_Del_Sistema/Jorge_Bernal_Liarte_SAD_UT0_T2.pdf" target="_blank"><img src="img/auditoria.png" width="400" alt="Auditoria del Sistema"></a>
+<br>
+<br>
+<p>Esta practica consiste en la realización de auditorias en los sistemas operativos Windows 11 y Ubuntu 24.04 con <strong>Lynis,Nessus y CLARA </strong>.</p>
+</div>
+                                                                                  
+</td>       
+
+<td width="50%">
+<h3 align="center">FTP</h3>
+<div align="center">
+<a href="https://github.com/JorgeBer19/IAW/blob/main/UT1/TAREA-3_Instalaci%C3%B3n_Y_Configuraci%C3%B3n_De_Servidor_Web_Windows_Y_Linux/Jorge_Bernal_Liarte_IAW_UT0_T3.pdf" target="_blank"><img src="img/xampp.png" width="400" height = "230" alt="Instalación y Configuración Basica de Xampp Windows y Ubuntu"></a>
+<br>
+<br>
+<p>Esta practica consiste en instalar y configurar mínimamente un servidor de aplicaciones web que en este caso va a ser <strong>XAMPP</strong> en los sistemas Windows 11 y Ubuntu 24.04.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
 
 ------
 <h3 align="left">Actividad:</h3>
-
-[![Gráfico de actividad de Leidy](https://github-readme-activity-graph.vercel.app/graph?username=Leidyph2002&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/Leidyph2002)
-
+<table>
+<tr>
+  <td>
 <div align="center">
   <a href="https://github.com/Leidyph2002">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leidyph2002&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Leidyph2002"/>
   </a>
 </div>
-<p align="center">
+  </td>
+  <td>
+<div align="center">
   <a href="https://github.com/Leidyph2002">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leidyph2002&&theme=tokyonight" alt="Leidyph2002" />
   </a>
-</p>
-
+</div>
+  </td>
+</tr>
+  </table>
 ------
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,python,nodejs,c,cs,cpp"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud Computing:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=aws"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Bases de datos:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Pruebas automatizadas:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Control de versiones:</td>
@@ -80,15 +115,19 @@ Mas sobre mi:
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime"/></td>
     </tr>
     <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,python,nodejs,c,cs,cpp"/></td>
+    </tr>
+    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Sistemas operativos:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali,linux,apple,redhat"/></td>
     </tr>
-      <tr>
+    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Otras herramientas:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=linkedin,ps,bash,powershell,wordpress,notion,npm,obsidian,gmail,discord,instagram"/></td>
-    </tr>
-        <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud Computing:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=aws"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=linkedin,ps,bash,powershell,wordpress,notion,gmail,discord,instagram"/></td>
     </tr>
 </table>
