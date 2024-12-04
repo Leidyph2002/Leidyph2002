@@ -26,11 +26,11 @@ He aprendido una gran cantidad de herramientas bastante reconocidas e importante
 <br>
 <h3 align="center">Router-Firewall</h3>
 <div align="center">
-<a href="https://github.com/JorgeBer19/Curso-Pyhon" target="_blank"><img src="img/router_firewall.jpeg" width="400" alt="Curso Básico de Python"></a>
+<a href="https://github.com/Leidyph2002/Leidyph2002" target="_blank"><img src="img/router_firewall.jpeg" width="400" alt="Router-Firewall"></a>
 <p>
 
 </p>
-<p>Este es un curso el cual lo estamos realizado en el modulo de <strong>SAD (Seguridad y Alta Disponibilidad)</strong> - En este curso se podrá ver los inicios para aprender <strong>Python</strong> con todo el código disponible para descargar y comentado para observar que hace cada cosa.</p>
+<p>Esta práctica consiste en crear un router con una máquina debian sin interfaz gráfica.</p>
 </div>
                                                                                       
 </td>
@@ -38,10 +38,9 @@ He aprendido una gran cantidad de herramientas bastante reconocidas e importante
 <td width="50%">
 <h3 align="center">DHCP</h3>
 <div align="center">
-<a href="https://github.com/JorgeBer19/SAD/blob/master/UT3/TAREA_0_Verificaci%C3%B3n_De_Integidad_Con_Hash/Jorge_Bernal_Liarte_SAD_UT3_T0.pdf" target="_blank"><img src="img/dhcp.png" width="400" height = "230" alt="Verificación de la integridad de archivos"></a>
-<p>
+<a href="https://github.com/Leidyph2002/Leidyph2002" target="_blank"><img src="img/dhcp.png" width="400" height = "230" alt="DHCP"></a>
 
-</p>Esta practica consiste en saber como comprobar la integridad de ficheros en so Windows y Ubuntu con herramientas tales como <strong>CertUtil, QuickHash GUI, md5sum y sha256sum. </strong><br><br></p>
+</p>Esta práctica consiste en crear tres servidores DHCP en máquinas debian sin interfaz gráfica que son: DHCP, DHCP-Relay, DHCP-Failover<br><br></p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -53,10 +52,10 @@ He aprendido una gran cantidad de herramientas bastante reconocidas e importante
 <h3 align="center">DNS</h3>
 <br>
 <div align="center">
-<a href="https://github.com/JorgeBer19/SAD/blob/master/UT1/TAREA-2_Auditoria_Del_Sistema/Jorge_Bernal_Liarte_SAD_UT0_T2.pdf" target="_blank"><img src="img/dns.jpg" width="400" alt="Auditoria del Sistema"></a>
+<a href="https://github.com/Leidyph2002/Leidyph2002" target="_blank"><img src="img/dns.jpg" width="400" alt="DNS"></a>
 <br>
 <br>
-<p>Esta practica consiste en la realización de auditorias en los sistemas operativos Windows 11 y Ubuntu 24.04 con <strong>Lynis,Nessus y CLARA </strong>.</p>
+<p>Esta práctica consiste en crear un servidor DNS en una máquina debian sin interfaz gráfica que resolver los nombres de dominio.</p>
 </div>
                                                                                   
 </td>       
@@ -64,10 +63,10 @@ He aprendido una gran cantidad de herramientas bastante reconocidas e importante
 <td width="50%">
 <h3 align="center">FTP</h3>
 <div align="center">
-<a href="https://github.com/JorgeBer19/IAW/blob/main/UT1/TAREA-3_Instalaci%C3%B3n_Y_Configuraci%C3%B3n_De_Servidor_Web_Windows_Y_Linux/Jorge_Bernal_Liarte_IAW_UT0_T3.pdf" target="_blank"><img src="img/ftp.png" width="400" height = "230" alt="Instalación y Configuración Basica de Xampp Windows y Ubuntu"></a>
+<a href="https://github.com/Leidyph2002/Leidyph2002" target="_blank"><img src="img/ftp.png" width="400" height = "230" alt="FTP"></a>
 <br>
 <br>
-<p>Esta practica consiste en instalar y configurar mínimamente un servidor de aplicaciones web que en este caso va a ser <strong>XAMPP</strong> en los sistemas Windows 11 y Ubuntu 24.04.</p>
+<p>Esta práctica consiste en crear un servidor FTP en una máquina debian sin interfaz gráfica que permiten la transferencia de archivos de unos dispositivos a otros.</p>
 </div>
                                                                                       
 </td>  
